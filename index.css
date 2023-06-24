@@ -1,0 +1,44 @@
+body{
+    background-image: url("./indexmedia/pair.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    height: 100vh;
+}
+
+#search{
+    background-color: rgba(77, 71, 71, 0.377);
+    border-radius: 10px;
+}
+
+.quote:hover{
+    cursor:help;
+}
+
+.motorcycle{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    color: rgba(255, 38, 0, 0.685);
+    text-decoration: underline overline;
+    margin-bottom: 50px;
+}
+#ymhlogo{
+    height: 120px;
+    width: auto;
+    margin-right: 50px;
+
+}
+
+#tvslogo{
+    height: 180px;
+    margin-right: 50px;
+}
+#relogo{
+    height: 130px;
+}
+
+/* .footer{
+    background-image: url("./indexmedia/mt15.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    height: 60vh;
+} */
